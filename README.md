@@ -65,19 +65,6 @@ If no valid combination is found, returns:
 not possible
 ```
 
-## Docker (Optional)
-To run the app using Docker:
-
-1. Build the Docker image:
-```bash
-docker build -t grupo-simpli-challenge .
-```
-
-2. Run the container:
-```bash
-docker run -p 8080:8080 grupo-simpli-challenge
-```
-
 ## Contact
 For any questions, feel free to contact me at **scarnezis@gmail.com**.
 
